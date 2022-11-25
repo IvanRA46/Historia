@@ -1,0 +1,21 @@
+Inicio ini in
+Vida vid vi Nacer Morir
+Morir mor mo Fin Fin
+Nacer nac na Abstenerse Lujuria
+Lujuria luj lu Fin Fin
+Abstenerse abs ab Evitar Gula
+Gula gul gu Fin Fin
+Evitar evi ev Generosidad Avaricia
+Avaricia ava av Fin Fin
+Generosidad gen ge Calma Ira
+Ira ira ir Fin Fin
+Calma cal ca Ortodoxia Herejia
+Herejia her he Fin Fin
+Ortodoxia ort or Paz Violencia
+Violencia vio ia Fin Fin
+Paz paz pa Verdad Mentira
+Mentira men me Fin Fin
+Verdad ver ve Cielo Traicion
+Traicion tra tr Fin Fin
+Cielo cie ci Fin Fin
+Fin fin fi
